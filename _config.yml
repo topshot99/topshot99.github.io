@@ -1,0 +1,57 @@
+# Site settings
+title: "TopShot99's Tech Blog"
+description: "Technical findings, insights, and discoveries in software development"
+baseurl: ""
+url: "https://topshot99.github.io"
+github_username: topshot99
+
+# Author settings
+author:
+  name: "TopShot99"
+  email: "your-email@example.com"
+  github: "topshot99"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "TopShot99"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Syntax highlighting theme
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
