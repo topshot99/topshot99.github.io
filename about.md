@@ -43,6 +43,8 @@ I believe in learning through experimentation and sharing knowledge with the com
 ## Let's Connect!
 
 - **GitHub**: [@topshot99](https://github.com/topshot99)
+- **LinkedIn**: [Manik Khandelwal](https://www.linkedin.com/in/manik-khandelwal/)
+- **X (Twitter)**: [@Manikkhandelwa2](https://x.com/Manikkhandelwa2)
 - **Blog Repository**: Feel free to suggest improvements or report issues
 
 Thanks for visiting, and I hope you find something useful here!

@@ -27,6 +27,8 @@ Hi there! I'm **Manik**, and this is where I share my technical discoveries, ins
 Feel free to reach out if you have questions about any of my posts or want to discuss technical topics!
 
 - **GitHub**: [@topshot99](https://github.com/topshot99)
+- **LinkedIn**: [Manik Khandelwal](https://www.linkedin.com/in/manik-khandelwal/)
+- **X (Twitter)**: [@Manikkhandelwa2](https://x.com/Manikkhandelwa2)
 - **Issues & Discussions**: Use the repository issues for questions or feedback
 
 ---
