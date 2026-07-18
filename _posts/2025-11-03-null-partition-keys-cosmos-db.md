@@ -4,7 +4,7 @@ title: "Understanding Null Partition Keys in Azure Cosmos DB"
 date: 2025-11-03 14:30:00 +0000
 categories: [azure, cosmosdb, database]
 tags: [cosmos-db, partition-keys, javascript, typescript, azure]
-author: TopShot99
+author: Manik
 excerpt: "Deep dive into how Azure Cosmos DB handles null partition keys, with practical examples and testing scenarios."
 ---
 

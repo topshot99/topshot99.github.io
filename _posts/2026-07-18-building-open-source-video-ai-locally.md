@@ -4,7 +4,7 @@ title: "Building Open-Source Video AI Locally: Starting the Journey"
 date: 2026-07-18 02:40:00 +0000
 categories: [video-ai, multimodal-ai, machine-learning]
 tags: [video-ai, multimodal-ai, computer-vision, llm, rag, open-source, machine-learning, ai-engineering]
-author: TopShot99
+author: Manik
 excerpt: "The start of a series exploring how to build a simplified language-based video Q&A and Video RAG system locally with open-source models and tools."
 ---
 

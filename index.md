@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Welcome to TopShot99's Tech Blog"
+title: "Welcome to Manik's Tech Blog"
 ---
 
 # Welcome to My Technical Blog! 🚀
 
-Hi there! I'm **TopShot99**, and this is where I share my technical discoveries, insights, and learnings from my journey in software development.
+Hi there! I'm **Manik**, and this is where I share my technical discoveries, insights, and learnings from my journey in software development.
 
 ## What You'll Find Here
 

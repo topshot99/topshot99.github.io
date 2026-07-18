@@ -4,7 +4,7 @@ title: "Running Open-Source DocumentDB Locally with Docker"
 date: 2026-03-13 10:00:00 +0000
 categories: [documentdb, docker, database]
 tags: [documentdb, docker, mongodb, postgresql, open-source, tutorial, getting-started]
-author: TopShot99
+author: Manik
 excerpt: "A hands-on guide to running the open-source DocumentDB (Microsoft's MongoDB-compatible database, now under the Linux Foundation) locally using Docker, complete with CRUD operations and monitoring setup."
 ---
 
@@ -210,4 +210,4 @@ Stay tuned — this is going to be a fun deep dive into one of the most interest
 
 ---
 
-*Happy learning! — TopShot99*
+*Happy learning! — Manik*

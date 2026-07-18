@@ -4,7 +4,7 @@ title: "Getting Started with Azure Cosmos DB JavaScript SDK"
 date: 2025-11-02 10:00:00 +0000
 categories: [azure, cosmosdb, javascript]
 tags: [cosmos-db, javascript, sdk, tutorial, getting-started]
-author: TopShot99
+author: Manik
 excerpt: "A comprehensive guide to getting started with Azure Cosmos DB using the JavaScript SDK, covering setup, basic operations, and best practices."
 ---
 

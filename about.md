@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Welcome! I'm **TopShot99**, a passionate software developer with a keen interest in exploring and understanding complex technical systems.
+Welcome! I'm **Manik**, a passionate software developer with a keen interest in exploring and understanding complex technical systems.
 
 ## My Journey
 

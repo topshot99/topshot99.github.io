@@ -1,4 +1,4 @@
-# TopShot99's Tech Blog
+# Manik's Tech Blog
 
 A Jekyll-powered blog for sharing technical insights, discoveries, and learnings in software development.
 
@@ -44,7 +44,7 @@ title: "Your Post Title"
 date: 2025-11-03 14:30:00 +0000
 categories: [category1, category2]
 tags: [tag1, tag2, tag3]
-author: TopShot99
+author: Manik
 excerpt: "Brief description of your post"
 ---
 ```

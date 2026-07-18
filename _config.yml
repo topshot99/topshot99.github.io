@@ -1,15 +1,12 @@
 # Site settings
-title: "TopShot99's Tech Blog"
+title: "Manik's Tech Blog"
 description: "Technical findings, insights, and discoveries in software development"
 baseurl: ""
 url: "https://topshot99.github.io"
 github_username: topshot99
 
 # Author settings
-author:
-  name: "TopShot99"
-  email: "your-email@example.com"
-  github: "topshot99"
+author: "Manik"
 
 # Build settings
 markdown: kramdown
@@ -37,7 +34,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "TopShot99"
+      author: "Manik"
 
 # Exclude from processing
 exclude:
